@@ -3,6 +3,7 @@
 Redis is often referred as a data ***structures*** server.
 
 # Building Redis
+
 * It is simple. just type `make`
 ```
 % make
@@ -15,5 +16,6 @@ Redis is often referred as a data ***structures*** server.
 ```
 
 # Link
-[Redis] (https://redis.io)
+
+[Redis](https://redis.io)
 ----------------
